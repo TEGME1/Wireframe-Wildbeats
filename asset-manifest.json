@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Wireframe-Wildbeats/static/css/main.12d567e0.css",
+    "main.css": "/Wireframe-Wildbeats/static/css/main.fefd4df0.css",
     "main.js": "/Wireframe-Wildbeats/static/js/main.a62465ee.js",
     "index.html": "/Wireframe-Wildbeats/index.html",
-    "main.12d567e0.css.map": "/Wireframe-Wildbeats/static/css/main.12d567e0.css.map",
+    "main.fefd4df0.css.map": "/Wireframe-Wildbeats/static/css/main.fefd4df0.css.map",
     "main.a62465ee.js.map": "/Wireframe-Wildbeats/static/js/main.a62465ee.js.map"
   },
   "entrypoints": [
-    "static/css/main.12d567e0.css",
+    "static/css/main.fefd4df0.css",
     "static/js/main.a62465ee.js"
   ]
 }
